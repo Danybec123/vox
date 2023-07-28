@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+   background: linear-gradient(rgb(0, 204, 255),rgb(0, 255, 213),rgb(204, 255, 0));
+   font-family: cursive;
+   height:100vh
+}
+
+svg{
+    height: 100px;
+    width: 100px;
+}
